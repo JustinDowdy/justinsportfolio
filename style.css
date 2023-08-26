@@ -36,6 +36,10 @@ h1{
     color: white;
 }
 
+/* css on project text */
+.card-text {
+    text-align: center;
+}
 /* spacing on all sections */
 /* #about, #services, #portfolio, #contact {
     margin-top: 4rem;
@@ -63,6 +67,10 @@ h1{
 }
 .servicesText:hover {
     border: 1px solid #008000;
+}
+
+.card-img-top1 {
+	border: 1px solid #555;
 }
 
 /* social media icons styling */
