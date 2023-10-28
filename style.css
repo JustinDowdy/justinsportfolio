@@ -69,9 +69,13 @@ h1{
     border: 1px solid #008000;
 }
 
-.card-img-top1 {
-	border: 1px solid #555;
+.card-img-top2 {
+    height: 100%;
+    width: 100%;
 }
+/* .card-img-top1 {
+	border: 1px solid #555;
+} */
 
 /* social media icons styling */
 .social-icons {
@@ -89,3 +93,4 @@ h1{
     background-color: #808080;
     text-align: center;
 }
+
