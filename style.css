@@ -94,3 +94,105 @@ h1{
     text-align: center;
 }
 
+/* Getting my sentence to stay on one line */
+.single-line {
+    white-space: nowrap;
+}
+
+/* editing my break between spaces */
+.line-break {
+    height: 15px; /* Adjust the height as needed */
+    width: 100%; /* Ensures it spans the full width of its container */
+    clear: both; /* Clears any floats if necessary */
+}
+
+.line-break3 {
+    height: 30px; /* Adjust the height as needed */
+    width: 100%; /* Ensures it spans the full width of its container */
+    clear: both; /* Clears any floats if necessary */
+}
+
+.line-break1 {
+    height: 0px; /* Adjust the height as needed */
+    width: 100%; /* Ensures it spans the full width of its container */
+    clear: both; /* Clears any floats if necessary */
+}
+
+/* Indenting a sentence */
+.indented {
+    text-indent: 150px; /* Adjust the indent as needed */
+}
+
+.indented3 {
+    text-indent: 110px; /* Adjust the indent as needed */
+}
+
+.text-color {
+    color: black;
+}
+
+/* positioning 'languages covered' image */
+.image-position {
+  position: relative;
+  top: 20px;
+  left: 30px;
+}
+
+.image-position1 {
+    position: relative;
+    left: 0px;
+}
+
+/* font change */
+h3 {
+    font-family: "Arial", sans-serif;
+}
+
+.font {
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title-font {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.image-container {
+    display: inline-block;
+}
+
+/* Indenting a sentence */
+.indented1 {
+    text-indent: 45px; /* Adjust the indent as needed */
+}
+
+/* Indenting a sentence */
+.indented2 {
+    text-indent: 125px; /* Adjust the indent as needed */
+}
+
+.image-position2 {
+    position: relative;
+    left: 260px;
+}
+
+.color {
+    color: #CC5500;
+}
+
+.dark-color {
+    color: #CC5500;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.line-break2 {
+    height: 0px; /* Adjust the height as needed */
+    width: 100%; /* Ensures it spans the full width of its container */
+    clear: both; /* Clears any floats if necessary */
+}
+
+.image-position3 {
+    position: relative;
+    left: 180px;
+}
