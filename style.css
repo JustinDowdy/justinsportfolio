@@ -194,5 +194,10 @@ h3 {
 
 .image-position3 {
     position: relative;
-    left: 180px;
+    left: 165px;
+}
+
+.image-position4 {
+    position: relative;
+    left: 400px;
 }
